@@ -2,7 +2,7 @@
 
 namespace DesignPatterns.Creational.Builder
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
