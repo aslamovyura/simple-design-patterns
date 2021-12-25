@@ -10,11 +10,19 @@
     <None Remove="Creational\Builder\" />
     <None Remove="Creational\Prototype\" />
     <None Remove="Creational\Singleton\" />
+    <None Remove="Structural\" />
+    <None Remove="Behavioral\" />
+    <None Remove="Structural\Adapter\" />
+    <None Remove="Structural\Composite\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Creational\AbstractFactory\" />
     <Folder Include="Creational\Builder\" />
     <Folder Include="Creational\Prototype\" />
     <Folder Include="Creational\Singleton\" />
+    <Folder Include="Structural\" />
+    <Folder Include="Behavioral\" />
+    <Folder Include="Structural\Adapter\" />
+    <Folder Include="Structural\Composite\" />
   </ItemGroup>
 </Project>

@@ -2,9 +2,9 @@
 
 namespace DesignPatterns.Creational.Builder
 {
-    public class Program
+    public class Client
     {
-        static void Main(string[] args)
+        public void Main(string[] args)
         {
             // The client code creates a builder object, passes it to the
             // director and then initiates the construction process. The end

@@ -1,9 +1,9 @@
 ﻿using System;
 namespace DesignPatterns.Creational.Prototype
 {
-    public class Program
+    public class Client
     {
-        static void Main(string[] args)
+        public void Main(string[] args)
         {
             Person p1 = new();
             p1.Age = 42;

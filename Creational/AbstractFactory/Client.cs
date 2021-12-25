@@ -1,7 +1,7 @@
 ﻿using System;
 namespace DesignPatterns.Creational.AbstractFactory
 {
-    class Client
+    public class Client
     {
         public void Main()
         {

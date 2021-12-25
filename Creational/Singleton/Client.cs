@@ -3,9 +3,9 @@ using System.Threading;
 
 namespace DesignPatterns.Creational.Singleton
 {
-    public class Program
+    public class Client
     {
-        static void Main(string[] args)
+        public void Main(string[] args)
         {
             Console.WriteLine(
                 "{0}\n{1}\n\n{2}\n",
